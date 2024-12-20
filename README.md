@@ -437,7 +437,7 @@ plt.show()
 
 
     
-![png](output_13_0.png)
+<img src = 'https://github.com/anggapradanaa/House_Prices_Advanced_Regression_Techniques/blob/main/actual%20vs%20predicted%20for%20training%20set.png'>
     
 
 
